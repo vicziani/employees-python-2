@@ -9,3 +9,5 @@ Távoli változtatás2
 * Lokális változtatás 2
 
 Távoli változtatás3
+
+Próba a rebase-re
