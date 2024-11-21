@@ -14,3 +14,5 @@ Próba a rebase-re2
 
 amend tesztelése
 
+előkészítés a v1.0.1 release-re
+
