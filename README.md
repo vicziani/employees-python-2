@@ -12,5 +12,5 @@ Próba a rebase-re
 
 Próba a rebase-re2
 
-amend tesztelése
+amend tesztelése2
 
