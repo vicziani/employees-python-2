@@ -6,4 +6,6 @@ Távoli változtatás
 
 Távoli változtatás2
 
+* Lokális változtatás 2
+
 Távoli változtatás3
